@@ -1,0 +1,70 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body > div{
+    background-color: rgba(45, 52, 56, 0.6);
+    height: 630px;
+    border-radius: 15px;
+    margin: 20px 80px;
+}
+
+header > img{
+    width: 200px;
+    margin-top: 50px;
+}
+
+header,nav{
+    text-align: center;
+}
+
+header > h1{
+    color:rgb(56, 230, 33);
+    margin: 0px;
+}
+
+nav{
+    background-color: rgb(56, 230, 33);
+    padding: 5px 0px;
+    margin: 0px 80px 5px;
+}
+
+main{
+    color: white;
+    margin: 0px 80px;
+}
+
+section > h3{
+    display: inline-block;
+    margin-bottom: 2px;
+    font-size: 20px;
+}
+
+section > div{
+    font-size: 14px;
+}
+
+.charger{
+    border-radius: 5px;
+    height: 25px;
+    border: 1px;
+    margin-top: 3px;
+}
+
+.Gino22{
+    width: 300px;
+    background-color: rgb(224, 153, 85);
+}
+.Mike24{
+    width: 550px;
+    background-color: rgb(56, 230, 33);
+}
+
+.Fede154{
+    width: 150px;
+    background-color: rgb(197, 58, 53);
+}
